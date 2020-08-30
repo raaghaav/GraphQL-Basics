@@ -101,8 +101,8 @@ const resolvers = {
     me() {
       return {
         id: '123098',
-        name: 'Mike',
-        email: 'mike@example.com',
+        name: 'Raghav',
+        email: 'raghav@example.com',
       };
     },
     post() {
